@@ -1,0 +1,21 @@
+{
+  "name": "Phonon-Framework",
+  "version": "1.1.2",
+  "homepage": "https://github.com/qraft/Phonon-Framework",
+  "authors": [
+    "Rachid <rachid@qraft.nl>"
+  ],
+  "description": "Lightweight framework for developing mobile web applications.",
+  "keywords": [
+    "ui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
